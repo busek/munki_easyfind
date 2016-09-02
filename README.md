@@ -1,0 +1,1 @@
+Munki Recipe for EasyFind
